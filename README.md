@@ -6,10 +6,11 @@
 
 AgriBot is a smart, voice-enabled chatbot system that assists farmers by recommending **organic fertilizers**, detecting **plant diseases from leaf images**, and providing **video/image suggestions** for eco-friendly farming practices. It is designed to support **sustainable agriculture** by leveraging AI models like **Random Forest** and **CNN**, making intelligent decisions based on real-time agricultural inputs.
 
-![Screenshot (149)](https://github.com/user-attachments/assets/0776feaa-3d38-4b13-bfa3-e4f7806645c5)
+
 ![Screenshot (148)](https://github.com/user-attachments/assets/a5209077-10d4-4f8c-b7d9-9ef175347b40)
 ![Screenshot (110)](https://github.com/user-attachments/assets/f0b07129-2475-4d57-b3ba-d3a5d2c16318)
 ![Screenshot (101)](https://github.com/user-attachments/assets/d9208b27-0775-4408-81e7-dfe6ac41ff4c)
+![Screenshot (149)](https://github.com/user-attachments/assets/0776feaa-3d38-4b13-bfa3-e4f7806645c5)
 ![Screenshot (100)](https://github.com/user-attachments/assets/a95e70f8-4f86-4e23-9233-bb0fc36bdeba)
 9f4)
 
@@ -36,7 +37,8 @@ AgriBot is a smart, voice-enabled chatbot system that assists farmers by recomme
 
 
 
-![Screenshot (165)](https://github.com/user-attachments/assets/dcc1f718-f7d8-43c7-ba03-1ac83cc70![Screenshot (150)](https://github.com/user-attachments/assets/1bdf2211-1e88-46fd-94c7-4352e2ee00fd)
+![Screenshot (165)](https://github.com/user-attachments/assets/dcc1f718-f7d8-43c7-ba03-1ac83cc70
+![Screenshot (150)](https://github.com/user-attachments/assets/1bdf2211-1e88-46fd-94c7-4352e2ee00fd)
 ## 📂 Project Structure
 
 
