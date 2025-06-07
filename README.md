@@ -1,3 +1,4 @@
+
 ﻿# Fertilizer-Recommendation-System
 
 
@@ -8,6 +9,7 @@ AgriBot is a smart, voice-enabled chatbot system that assists farmers by recomme
 
 ![Screenshot (100)](https://github.com/user-attachments/assets/a95e70f8-4f86-4e23-9233-bb0fc36bdeba)
 9f4)
+![Screenshot (165)](https://github.com/user-attachments/assets/d5448995-7383-4228-9016-c55da568befc)
 ![Screenshot (101)](https://github.com/user-attachments/assets/d9208b27-0775-4408-81e7-dfe6ac41ff4c)
 ![Screenshot (148)](https://github.com/user-attachments/assets/a5209077-10d4-4f8c-b7d9-9ef175347b40)
 ![Screenshot (149)](https://github.com/user-attachments/assets/0776feaa-3d38-4b13-bfa3-e4f7806645c5)
