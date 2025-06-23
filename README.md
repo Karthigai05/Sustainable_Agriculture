@@ -47,19 +47,19 @@ AgriBot is a smart, voice-enabled chatbot system that assists farmers by recomme
 
 ## 🛠️ Installation & Setup
 
-1. **Clone this repo**
+1. Clone this repo
    ```bash
    git clone https://github.com/yourusername/AgriBot.git
    cd AgriBot
 ````
 
-2. **Install dependencies**
+2. Install dependencies
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Streamlit app**
+3. Run the Streamlit app
 
    ```bash
    streamlit run main_app.py
@@ -69,7 +69,7 @@ AgriBot is a smart, voice-enabled chatbot system that assists farmers by recomme
 
 ## 🎤 Voice Control Instructions
 
-* Click on the 🎤 **Speak** buttons to give voice input for numerical values.
+* Click on the 🎤 Speak buttons to give voice input for numerical values.
 * The system parses spoken numbers (e.g., "fifty four") into actual values.
 * TTS provides voice feedback for clarity and guidance.
 
@@ -77,12 +77,12 @@ AgriBot is a smart, voice-enabled chatbot system that assists farmers by recomme
 
 ## 🧪 Inputs Required
 
-* **Temperature (°C)**
-* **Humidity (%)**
-* **Moisture (%)**
-* **Soil Type** – Selectable from list
-* **Crop Type** – Selectable from list
-* **N (Nitrogen)**, **P (Phosphorus)**, **K (Potassium)**
+* Temperature (°C)
+* Humidity (%)
+* Moisture (%)
+* Soil Type– Selectable from list
+* Crop Type – Selectable from list
+* N (Nitrogen), P (Phosphorus), K (Potassium)
 
 ---
 
@@ -97,34 +97,34 @@ AgriBot is a smart, voice-enabled chatbot system that assists farmers by recomme
 
 ## 🔧 Technologies Used
 
-* **Python**, **Streamlit**
-* **TensorFlow / Keras** – CNN model
-* **Scikit-learn / Joblib** – Random Forest & preprocessing
-* **SpeechRecognition**, **pyttsx3** – Voice input/output
-* **NumPy**, **PIL**, **wavio**, **sounddevice** – Audio & image handling
+* Python, Streamlit
+* TensorFlow / Keras – CNN model
+* Scikit-learn / Joblib – Random Forest & preprocessing
+* SpeechRecognition, pyttsx3– Voice input/output
+* NumPy, PIL, wavio, sounddevice – Audio & image handling
 
 ---
 
 ## ♻️ Sustainable Agriculture Focus
 
-* Promotes **organic alternatives** over chemical fertilizers
-* Empowers farmers with **real-time, localized solutions**
-* Supports **visual learning** and **voice interaction** for inclusivity
+* Promotes organic alternatives over chemical fertilizers
+* Empowers farmers with real-time, localized solutions
+* Supports visual learning and voice interaction for inclusivity
 
 ---
 
 ## 📈 Future Enhancements
 
-* 🌐 Integrate **IoT sensor data** for automatic updates
+* 🌐 Integrate IoT sensor data for automatic updates
 * 📡 GPS-based location recommendations
-* 📱 Deploy as a **mobile app** for broader access
+* 📱 Deploy as a mobile app for broader access
 * 🧑‍🌾 Add multi-language voice support for rural regions
 
 ---
 
 ## 👩‍💻 Contributors
 
-* 👤 **Sneha K** – Final Year CSE Student, RV College of Engineering
+* 👤 Sneha K – Final Year CSE Student, RV College of Engineering
   Project Lead 
 
 
