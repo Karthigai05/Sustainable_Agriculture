@@ -42,24 +42,7 @@ AgriBot is a smart, voice-enabled chatbot system that assists farmers by recomme
 | Image Recommendation     | Random Forest       | `image_model.pkl`                   |
 
 
-## 📂 Project Structure
 
-
-AgriBot/
-│
-├── TrainedModel/
-│   ├── plant\_disease\_prediction\_model.h5
-│   ├── fertilizer\_model.pkl
-│   ├── video\_model.pkl
-│   ├── image\_model.pkl
-│   ├── standard\_scaler.pkl
-│   ├── label\_encoder\_\*.pkl (soil, crop, fertilizer, video, image)
-│   └── class\_indices.json
-│
-├── main\_app.py         # Streamlit application
-├── requirements.txt    # Dependencies
-├── README.md           # You're reading it!
-└── input.wav           # Temporary file for speech recognition
 
 
 ## 🛠️ Installation & Setup
