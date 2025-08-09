@@ -125,7 +125,8 @@ AgriBot is a smart, voice-enabled chatbot system that assists farmers by recomme
 ## 👩‍💻 Contributors
 
 * 👤 Karthigai Lakshmi C – Final Year CSE Student, RV College of Engineering
-  Project Lead 
+  
+
 
 
 
